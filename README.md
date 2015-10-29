@@ -97,7 +97,9 @@ _return to [top](README.md#top)_
 ## 3. And now ...
 
 You found additional learning ressources worth mentioning and helpful?
+
 Or
+
 You created some learning ressources by yourself?
 
 Please send us a pull request!
