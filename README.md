@@ -23,7 +23,7 @@ As we want to foster a "jump-start" we start right away:
 1. [SpringSource](https://www.youtube.com/user/SpringSourceDev/) has some valuable video turotials (not only) about Grails on youtube.
    1. [Getting Started with Grails - Part 1](https://youtu.be/PXHxo43hn34)
    1. [Getting Started with Grails - Part 2](https://youtu.be/qNFksvLxZNU)
-   1. [etting Started with Grails - Part 3 ](https://youtu.be/oL4yVtNU31E)
+   1. [Getting Started with Grails - Part 3 ](https://youtu.be/oL4yVtNU31E)
  1. Next you can follow Ben Davis on a more practical approach and build a link shortener
     1. [Part 1](http://www.learningtechnicalstuff.com/2012/04/building-url-shortener-in-grails-pt-1.html)
     1. [Part 2](http://www.learningtechnicalstuff.com/2012/05/building-url-shortener-in-grails-pt-2.html)
