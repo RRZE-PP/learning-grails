@@ -1,6 +1,6 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a> ![Grails - use it!](https://img.shields.io/badge/Grails-use%20it!-4D8618.svg) ![Groovy - use it!](https://img.shields.io/badge/Grails-use%20it!-286B86.svg)
 
-# [Learning Grails "P&P style"](#top)
+# Learning Grails "P&P style"
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License <img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>.
 
@@ -31,7 +31,7 @@ As we want to foster a "jump-start" we start right away:
 
 ... for all additional questions, please refer to the (very good) [Grails Documentation](http://www.grails.org/single-page-documentation.html).
 
-_return to [top](README.md#top)_
+_return to [top](#)_
 
 
 ### 1.1 [Books](#grails-books)
@@ -91,7 +91,7 @@ You search for more information? So please start from one of these:
 * In case of questions/problems look on [Stack Overflow tag:groovy](https://stackoverflow.com/questions/tagged/grails+groovy), as the probability is high that someone else had the same problem and got a suggestion for a solution there.
 * Have look every once and a while on [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) Groovy](https://github.com/kdabir/awesome-groovy), where helpful links are collected.
 
-_return to [top](README.md#top)_
+_return to [top](#)_
 
 
 ## 3. And now ...
