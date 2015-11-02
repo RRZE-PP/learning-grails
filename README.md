@@ -34,7 +34,7 @@ As we want to foster a "jump-start" we start right away:
 _return to [top](#)_
 
 
-### 1.1 [Books](#grails-books)
+### 1.1 Grails Books
 
 The following books are recommended as reference and should be available in most libraries or even online via your library/organisation:
 
@@ -42,10 +42,10 @@ The following books are recommended as reference and should be available in most
 * Glen Smith and Peter Ledbrook: [Grails in Action](http://proquest.safaribooksonline.com/book/programming/java/9781617290961), Second Edition, Manning Publications, 2014.
 * Graeme Rocher and Jeff Brown: [The Definitive Guide to Grails](http://proquest.safaribooksonline.com/book/web-development/ruby/9781590599952), Second Edition, Apress, 2009.
 
-_return to [top](README.md#top)_
+_return to [top](#)_
 
 
-### 1.2 [Additional Links](#grails-additional-links)
+### 1.2 Grails Additional Links
 
 You search for more information? So please start from one of these:
 
@@ -54,10 +54,10 @@ You search for more information? So please start from one of these:
 * IBM has publishes a [series of Grails tutorials](http://www.ibm.com/developerworks/views/java/libraryview.jsp?search_by=mastering+grails) covering different aspects.
 * Have look every once and a while on [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) Grails](https://github.com/hitenpratap/awesome-grails), where helpful links are collected.
 
-_return to [top](README.md#top)_
+_return to [top](#)_
 
 
-## 2. [Groovy](#groovy)
+## 2. Groovy
 
 As Grails is based on [Groovy](http://www.groovy-lang.org/) is is maybe a good idea to have a closer look into Groovy as well. :wink:
 
@@ -71,7 +71,7 @@ As Grails is based on [Groovy](http://www.groovy-lang.org/) is is maybe a good i
 _return to [top](README.md#top)_
 
 
-### 2.1 [Books](#groovy-books)
+### 2.1 Groovy Books
 
 The following books are recommended as reference and should be available in most libraries or even online via your library/organisation:
 
@@ -81,10 +81,10 @@ The following books are recommended as reference and should be available in most
 
    Jörg Staudemeyer: [Groovy für Java-Entwickler](http://examples.oreilly.de/openbooks/pdf_groovyger.pdf) (openbook ![pdf file](https://raw.githubusercontent.com/RRZE-PP/rrze-icon-set/master/tango/22x22/mime-types/document-pdf.png)), O’Reilly Verlag, 2007.
 
-_return to [top](README.md#top)_
+_return to [top](#)_
 
 
-### 2.2 [Additional Links](#groovy-additional-links)
+### 2.2 Groovy Additional Links
 
 You search for more information? So please start from one of these:
 
