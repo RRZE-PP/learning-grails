@@ -1,4 +1,4 @@
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a> ![Grails - use it!](https://img.shields.io/badge/Grails-use%20it!-4D8618.svg) ![Groovy - use it!](https://img.shields.io/badge/Grails-use%20it!-286B86.svg)
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a> ![Grails - use it!](https://img.shields.io/badge/Grails-use%20it!-4D8618.svg) ![Groovy - use it!](https://img.shields.io/badge/Groovy-use%20it!-286B86.svg)
 
 # Learning Grails "P&P style"
 
