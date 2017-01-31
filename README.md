@@ -96,7 +96,14 @@ You search for more information? So please start from one of these:
 _return to [top](#)_
 
 
-## 3. And now ...
+## 3. Blogs
+
+*   [Groovy Calamari](http://groovycalamari.com) - <cite>Groovy Calamari is a curated publication full of interesting, relevant links about the Groovy Ecosystem. Curated by Sergio del Amo and published weekly. Free.</cite>
+*   [mrhaki's Groovy Goodness](http://mrhaki.blogspot.de/search/label/Groovy:Goodness)
+*   [mrhaki's Grails Goodness](http://mrhaki.blogspot.de/search/label/Grails:Goodness)
+
+
+## 4. And now ...
 
 You found additional learning ressources worth mentioning and helpful?
 
